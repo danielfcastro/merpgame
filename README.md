@@ -1,4 +1,4 @@
-## 🛡️ Thrain Escudotrovão
+## 🛡️ Thrain Escudo do trovão
 **Raça:** Anão (Dwarf)  
 **Profissão:** Guerreiro (Warrior)  
 **Origem:** Ered Luin  
@@ -29,7 +29,7 @@
 
 ### 🛡️ Equipamento
 - Machado anão (gume de aço escuro)
-- Escudo com brasão dos Escudotrovão
+- Escudo com brasão dos Escudo do trovão
 - Armadura de malha reforçada
 - 2 machadinhas de arremesso
 - Poção de cura (1d10)
